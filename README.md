@@ -8,10 +8,10 @@ A simple but fast Python library for training neural networks
 
 PyNeural is a neural network library written in Cython which is powered by a
 simple but fast C library under the hood. PyNeural uses the cblas library to
-perform the backprogation algorithm efficiently on multicore processors.
+perform the backpropagation algorithm efficiently on multicore processors.
 PyNeural exposes a simple Python API that plays nicely with NumPy, making it
 easy for you to munge your data sets as needed and quickly use them to train
-a neural network for classifiction.
+a neural network for classification.
 
 ### Installation
 

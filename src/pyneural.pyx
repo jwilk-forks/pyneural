@@ -154,7 +154,7 @@ cdef class NeuralNet:
             lamb (float): The L2 penalty coefficient.
             decay (float): The amount to multiply the learning rate by after
                 each iteration over the training set.
-            info (int): How many interation to run between showing runtime info.
+            info (int): How many iterations to run between showing runtime info.
                 If info <= 0, no info will be shown.
 
         Example:
